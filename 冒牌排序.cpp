@@ -1,9 +1,9 @@
 #include<iostream>
 using namespace std;
 int main() {
-	//ц╟ещеепР
+	//ц╟О©╫О©╫О©╫О©╫О©╫О©╫
 	int num[] = { 3,2,4,6,5,8,7,1,0 };
-	//еепРг╟
+	//О©╫О©╫О©╫О©╫г╟
 	for (int m = 0; m < 9; m++) {
 		cout << num[m] << " ";
 	}
@@ -17,7 +17,8 @@ int main() {
             }
 		}
 	}
-	//еепР╨С
+	//
+	//О©╫О©╫О©╫О©╫О©╫
 	for (int n = 0; n < 9; n++) {
 		cout << num[n] << " ";
 	}
